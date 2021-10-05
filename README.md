@@ -1,3 +1,4 @@
 # _Hacktoberfest_
 
-Belajar Git Sambil GeBe Hacktoberfest.
+This is best for learning open source.
+## Belajar Git Sambil GeBe Hacktoberfest.
